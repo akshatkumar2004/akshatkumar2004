@@ -336,15 +336,19 @@ I believe in writing **clean, purposeful code** — not just code that works, bu
 <br/>
 
 <div align="center">
-  <a href="https://github.com/akshatkumar2004" target="_blank">
+  <a href="https://github.com/akshatkumar2004" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/akshat-kumar-84517334b/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/akshat-kumar-84517334b/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Akshat1250/" target="_blank">
+
+  <a href="https://leetcode.com/u/Akshat1250/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
@@ -362,3 +366,16 @@ I believe in writing **clean, purposeful code** — not just code that works, bu
 <!-- ============================================================ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=120&section=footer&animation=fadeIn" />
+<div align="center">
+
+> ### 💙 **Fail. Learn. Improve. Repeat.**
+> *Every commit is one step closer to becoming a better engineer.*
+
+</div>
+
+<br/>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=120&section=footer&animation=fadeIn"
+/>
