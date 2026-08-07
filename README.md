@@ -275,8 +275,9 @@ I believe in writing **clean, purposeful code** — not just code that works, bu
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshatkumar2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=c9d1d9&ring_color=0ea5e9&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatkumar2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" />
+ <img width="49%" src="https://github-readme-stats-seven-gilt-53.vercel.app/api?username=akshatkumar2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=c9d1d9&ring_color=0ea5e9&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats-seven-gilt-53.vercel.app/api/top-langs/?username=akshatkumar2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
