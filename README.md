@@ -288,14 +288,7 @@ I believe in writing **clean, purposeful code** — not just code that works, bu
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatkumar2004&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
-<br/>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=akshatkumar2004&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</div>
-
-<br/>
 
 <!-- Contribution Graph / Activity Graph -->
 <div align="center">
